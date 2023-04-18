@@ -1,3 +1,3 @@
-# Lab 2
+# meeting minutes
 
-This is the link to [site](https://ucsdalexis.github.io/cse110_lab2/)
+- [april 17, 2023](https://ucsdalexis.github.io/cse110-group-29/april_17_2023)
